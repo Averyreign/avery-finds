@@ -1,1 +1,1 @@
-console.log("Avery Finds loaded!");
+console.log("Avery Finds Website Loaded");
